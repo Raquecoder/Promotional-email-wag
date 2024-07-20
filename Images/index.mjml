@@ -1,0 +1,156 @@
+<mjml>
+<mj-head>
+    <!--here goes meta elements-->
+    <!--here goes style elements-->
+ <mj-title>Wag!</mj-title>
+ <mj-style inline="inline">
+  .icon-size {
+    max-width:"250px";
+
+  }
+ </mj-style>
+</mj-head>
+
+<!---header.mjml
+<mj-section>
+<mj-column>
+ <mj-text>
+  Header goes here!
+ </mj-text>
+</mj-column>
+</mj-section> -->
+
+<!--email starts-->
+<mj-body width="600px"
+         background-color="#fafbfc">
+ 
+  <mj-section>
+   <mj-column>
+    <mj-image src="https://i.postimg.cc/5Nbq3qF9/header.webp" />
+   </mj-column>
+ </mj-section>
+
+   <mj-section padding="0">
+   <mj-column>
+    <mj-text color="#01bf8f">
+     Share your love of <strong>WAG</strong>! and earn $$$.<a color="#01bf8f" href="https://share.wagwalking.com/email-banner">Refer friends today!</a>
+    </mj-text>
+    </mj-tr>
+   </mj-table>
+   </mj-column>
+  </mj-section>
+
+<mj-section padding="0">
+ <mj-column>
+  <mj-image src="https://i.postimg.cc/brH0Pd4j/doggy.png"/>
+ </mj-column>
+</mj-section>
+<mj-section>
+ <mj-column>
+  <mj-text color="#01bf8f"
+           font-weight="bold"
+           font-size="35px"
+           align="center">
+  Paws for your<br>
+   mental health
+  </mj-text>
+  <mj-text color="#38415d"
+           align="center"
+           font-size="15px"
+           line-height="20px">
+   Did you know 5-20 minutes of cuddles with your pet can
+scientifically reduce your stress levels?* Take a moment
+to give them some love. When you're away, rest
+assured, we'll care for them like family.
+  </mj-text>
+  <mj-button background-color="#01bf8f"
+             border="none"
+             border-radius="5px"
+             inner-padding="15px 55px"
+             href="https://wagwalking.com/dog-walking?_branch_match_id=913840778192615379&utm_source=CRM&utm_campaign=5-15-24-Mental-Health-Awareness-book-walk&utm_medium=EMAIL&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL09ML0%2FMyc7MS9dLLCjQy8nMy9aPDKxytUhOCiz2SgIAMRQwnycAAAA%3D">
+   <mj-text>
+    Find Pet Care
+   </mj-text>
+  </mj-button>
+</mj-column>
+</mj-section>
+<mj-section>
+<mj-column>
+   <mj-text color="#38415d"
+           font-weight="bold"
+           font-size="35px"
+           align="center">
+  Vacation is coming!
+  </mj-text>
+  <mj-text color="#38415d"
+           font-size="15px"
+           align="center"
+           line-height="25px">
+  Book your pet<br>
+all the cuddles they<br>
+deserve this Memorial Day Weekend.
+  </mj-text>
+  </mj-colum>
+  </mj-section>
+  <mj-section>
+   <mj-column>
+    <mj-text color="#01bf8f"
+             font-size="18px"
+             align="center">
+     Save $10 with code MDW10
+    </mj-text>
+    <mj-button background-color="#faab43"
+               border="none"
+               border-radius="5px"
+               inner-padding="15px 55px"
+               href="https://wagwalking.com/dog-sitting?_branch_match_id=913840778192615379&utm_source=CRM&utm_campaign=5-15-24-Mental-health-Awareness&utm_medium=EMAIL&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL09ML0%2FMyc7MS9dLLCjQy8nMy9avNC%2BsDCy3CCj2SgIAis4U2ScAAAA%3D">
+     Book now
+    </mj-button>
+  </mj-column>
+  </mj-section>
+</mj-column>
+</mj-section>
+
+<mj-section>
+<mj-group >
+ <mj-column>
+  <mj-text color="#38415d"
+           align="center">
+    Follow Wag!
+  </mj-text>
+ </mj-column>
+ </mj-section>
+
+ <!--footer-->
+
+ <mj-section padding="0" >
+  <mj-group width="350px">
+  <mj-column  padding="0" >
+   <mj-image padding="0" width="50px" src="https://i.postimg.cc/L4z3L050/facebook.png" href="#" alt="facebook"/>
+  </mj-column>
+
+  <mj-column padding="0">
+   <mj-image padding="0 " width="50px" src="https://i.postimg.cc/3xwjM8BP/instagram.png" href="#" alt="instagram" />
+   </mj-column>
+
+   <mj-column padding="0">
+  <mj-image  padding="0 " width="50px" src="https://i.postimg.cc/nc2Kwjv4/pinterest.png" href="#"  alt="pinterest"/>
+  </mj-column>
+
+  <mj-column padding="0">
+  <mj-image  padding="0 " width="50px"  src="https://i.postimg.cc/xdJKC6B5/tiktok.png"  href="#"  alt="tiktok"/>
+  </mj-column>
+
+  <mj-column padding="0">
+  <mj-image  padding="0 " width="50px" src="https://i.postimg.cc/mg6YBvph/twitter.png" href="#"  alt="twitter"/>
+  </mj-column>
+
+  <mj-column padding="0">
+  <mj-image padding="0 "   width="50px"  src="https://i.postimg.cc/43Dphzgg/youtube.png" href="#" alt="youtube"/>
+ </mj-column>
+ </mj-group>
+</mj-section>
+
+
+</mj-body>
+</mjml>
